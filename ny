@@ -1,0 +1,1 @@
+The,NY,API,integrates,New,York,s,traffic,data,It,is,available,in,REST,protocol,with,a,developer,Key,Traffic,speeds,incidents,roadwork,and,cameras,can,be,included,in,new,mobile,traffic,applications,with,API,access,New,York,State,provides,citizens,with,traffic,and,transportation,information,news,and,updates

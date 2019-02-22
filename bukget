@@ -1,0 +1,1 @@
+BukkitDev,is,a,repository,for,plugins,that,help,people,interact,with,and,manage,Minecraft,servers,BukGet,is,an,API,for,interfacing,with,this,repository,programmatically,While,the,API,is,designed,to,interact,with,multiple,plugin,datastores,it,is,primarily,used,for,interacting,with,BukkitDev,The,BukGet,API,uses,RESTful,calls,and,returns,data,in,JSON,format

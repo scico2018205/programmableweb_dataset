@@ -1,0 +1,1 @@
+BioTea,generates,RDF,representations,of,biomedical,literature,and,exposes,that,literature,collection,through,a,RESTful,API,The,BioTea,API,is,able,to,retrieve,a,list,of,RDF,documents,with,their,annotation,files,a,RDF,for,a,given,document,or,annotation,file,metadata,about,a,given,document,multiple,types,of,aggregate,data,or,metadata,about,the,collection

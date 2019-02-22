@@ -1,0 +1,1 @@
+The,Block,Explorer,Web,Socket,API,offers,real,time,Bitcoin,transactions,status,and,block,information,The,API,provides,objects,for,transactions,on,the,Bitcoin,block,chain,The,Status,event,is,published,in,the,sync,room,and,returns,current,block,syncing,information,This,API,is,served,using,socket,io

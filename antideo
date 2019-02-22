@@ -1,0 +1,1 @@
+The,Antideo,API,offers,health,checks,that,can,be,performed,on,IPs,and,Email,adresses,These,checks,can,be,used,for,accepting,user,signups,or,checking,orders,against,fraudulent,indicators,Antideo,updates,its,database,regularly,with,the,latest,infected,IP,ranges,and,proxy,records,This,API,requires,API,Keys,for,authentication,and,returns,data,in,JSON,format

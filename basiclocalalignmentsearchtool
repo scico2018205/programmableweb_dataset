@@ -1,0 +1,1 @@
+API,for,Basic,Local,Alignment,Search,Tool,BLAST,services,which,find,regions,of,local,similarity,between,sequences,The,program,compares,nucleotide,or,protein,sequences,to,sequence,databases,and,calculates,the,statistical,significance,of,matches,With,the,RESTful,API,users,can,submit,BLAST,jobs,for,processing,at,NCBI

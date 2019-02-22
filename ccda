@@ -1,0 +1,1 @@
+The,CCDA,API,is,a,builder,interface,that,simplifies,the,parsing,and,retrieval,of,patient,records,stored,in,CCDA,files,The,RESTful,API,allows,users,to,add,patient,profiles,and,automate,the,updating,of,data,edits,from,a,BlueButton,or,CCDA,file,It,out,as,a,full,release,version,that,sends,requests,and,responses,in,XML,and,JSON,formats

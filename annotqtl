@@ -1,0 +1,1 @@
+AnnotQTL,is,a,tool,designed,to,gather,the,functional,annotations,of,genes,for,specific,chromosomal,regions,It,provides,the,locations,of,genes,in,a,specific,region,using,NCBI,and,Ensembl,data,Then,it,adds,the,functional,annotations,from,other,databases,such,as,Gene,Ontology,Mammalian,Phenotype,HGNC,PubMed,etc,The,AnnotQTL,API,makes,these,functions,available,to,users,via,SOAP,calls

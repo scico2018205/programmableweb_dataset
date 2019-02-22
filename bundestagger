@@ -1,0 +1,1 @@
+The,BundesTagger,is,an,unofficial,open,government,website,exposing,the,plenary,proceedings,of,the,Bundestag,Germany,s,national,parliament,The,BundesTagger,API,provides,developer,access,to,Bundestag,parliamentary,groups,sessions,speeches,and,other,resources,This,RESTful,API,supports,HTTP,GET,calls,and,returns,XML,or,JSON,formatted,responses,JSONP,is,supported,for,callbacks

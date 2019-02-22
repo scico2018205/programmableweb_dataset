@@ -1,0 +1,1 @@
+C,is,a,big,data,and,social,analytics,platform,C,collects,public,social,data,and,provides,insights,and,analytics,about,the,relationships,between,consumers,brands,and,behavior,The,C,API,allows,developers,to,access,and,integrate,the,functionality,of,C,with,other,applications,Public,documentation,is,not,available,API,access,comes,with,account,service

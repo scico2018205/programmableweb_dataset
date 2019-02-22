@@ -1,0 +1,1 @@
+The,Notary,Management,API,is,used,to,digitally,sign,or,obtain,a,signed,version,of,content,or,data,This,signed,content,can,then,be,passed,on,as,a,parameter,in,another,API,request,The,Notary,Managient,API,is,called,by,the,developer,s,application,server,using,the,Server,Access,No,Subscriber,Context,OAuth,model,It,uses,RESTful,calls,and,responses,are,formatted,in,XML,or,JSON

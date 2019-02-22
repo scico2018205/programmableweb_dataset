@@ -1,0 +1,1 @@
+BioDOM,is,a,JAVA,library,for,converting,native,non,XML,output,from,various,bioinformatic,tools,to,XML,formats,that,can,be,validated,against,XMLSchemas,BioDOM,is,available,as,a,download,a,web,console,or,a,SOAP,API,The,API,consists,of,four,services,AlignmentML,SequenceML,RNAStructML,and,RNAStructAlignmentML,for,converting,native,formats,in,xml,and,back

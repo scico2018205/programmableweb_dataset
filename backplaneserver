@@ -1,0 +1,1 @@
+The,Backplane,Server,is,an,independent,orchestrator,of,the,message,interchange,between,Backplane,Clients,and,may,serve,multiple,independent,buses,Once,the,Backplane,client,has,been,recognized,as,authenticated,and,the,buses,specified,then,the,server,will,continue,through,the,authorization,grant,The,API,uses,OAuth,and,HTTP,basic,authentication,and,returns,messages,in,JSON,format

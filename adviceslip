@@ -1,0 +1,1 @@
+Advice,Slip,is,a,web,service,made,by,Tom,Kiss,It,has,an,interface,similar,to,that,of,an,ATM,but,rather,than,dispensing,paper,receipts,with,the,status,of,the,user,s,bank,account,it,dispenses,virtual,receipts,with,randomly,selected,pieces,of,advice,The,advice,dispensed,through,this,service,can,also,be,retrieved,programmatically,using,Advice,Slip,s,REST,API

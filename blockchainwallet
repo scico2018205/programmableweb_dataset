@@ -1,0 +1,1 @@
+The,Blockchain,Wallet,API,allows,Merchants,to,use,a,simple,interface,can,to,interact,with,electronic,wallets,This,API,decrypt,the,wallet,as,needed,and,re,saves,This,API,uses,HTTP,GET,and,POST,requests,The,API,allows,single,or,multiple,payments,to,be,made,individually,wallet,balances,and,address,management,functions,API,Key,is,required,for,authentication

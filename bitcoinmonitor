@@ -1,0 +1,1 @@
+BitcoinMonitor,is,a,Bitcoin,payment,solution,that,doesn,t,require,access,to,Bitcoin,wallets,but,only,facilitates,transactions,from,payer,to,payee,The,BitcoinMonitor,API,allows,users,to,access,several,resources,on,the,BitcoinMonitor,site,including,agent,resources,address,resources,and,notification,resources,The,API,uses,REST,calls,returns,JSON,and,is,free,to,use

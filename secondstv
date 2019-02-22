@@ -1,0 +1,1 @@
+The,seconds,API,provides,developers,with,the,ability,to,grab,and,mix,content,from,the,seconds,site,in,a,number,of,cool,ways,This,alpha,release,of,the,API,is,a,set,of,simple,HTTP,requests,to,our,API,server,that,returns,XML,for,your,mashup,pleasure,You,can,grab,a,single,user,s,videos,the,videos,of,that,user,s,friends,metadata,about,a,single,video,and,videos,matching,tags

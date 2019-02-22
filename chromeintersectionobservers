@@ -1,0 +1,1 @@
+The,Chrome,Intersection,Observers,API,allows,developers,to,determine,when,an,element,in,their,DOM,is,visible,to,the,end,user,If,an,element,is,only,partially,visible,the,API,can,determine,what,proportion,of,it,is,visible,This,could,be,used,to,delay,loading,images,until,they,re,needed,or,to,determine,whether,an,end,user,is,actually,seeing,an,ad,banner

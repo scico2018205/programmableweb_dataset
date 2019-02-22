@@ -1,0 +1,1 @@
+The,ArGo,Software,Address,Verifier,API,verifies,an,address,by,returning,either,Valid,Invalid,or,Unknown,Users,may,choose,to,specify,a,timeout,point,which,if,reached,will,cause,the,service,to,return,Unknown,This,service,is,accessible,using,SOAP,calls,issued,in,XML,format

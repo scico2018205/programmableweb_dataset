@@ -1,0 +1,1 @@
+The,Cat,API,is,a,simple,service,that,lets,users,pull,random,pictures,of,cats,Users,supply,a,call,specifying,the,return,format,the,number,of,cat,pictures,to,return,the,type,of,picture,file,to,return,and,the,category,of,picture,The,API,uses,RESTful,calls,and,response,are,formatted,in,XML,HTML,or,the,src,to,use,in,an,img,tag

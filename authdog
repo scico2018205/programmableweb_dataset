@@ -1,0 +1,1 @@
+AuthDog,is,an,API,that,lets,users,quickly,create,authentication,for,their,apps,It,can,be,used,to,implement,signup,with,built,in,email,validation,login,and,forgot,password,functionality,with,built,in,email,recovery,The,Authdog,API,can,be,consumed,via,Mashape,It,uses,RESTful,requests,and,responses,are,formatted,in,JSON

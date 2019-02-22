@@ -1,0 +1,1 @@
+pm,is,a,project,management,and,time,management,tool,The,pm,SOAP,API,provides,developers,tools,to,access,their,pm,information,from,their,own,applications,The,API,provides,methods,for,Authentication,and,to,access,Group,Project,Task,Activity,or,User,data,The,pm,project,management,API,is,currently,in,beta

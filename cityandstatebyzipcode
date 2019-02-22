@@ -1,0 +1,1 @@
+From,their,site,The,City,State,by,ZIP,Code,Web,service,accepts,a,ZIP,Code,and,finds,the,City,name,and,State,abbreviation,for,the,given,ZIP,code,This,Web,service,returns,an,array,of,strings,or,an,XML,file,containing,the,following,elements,the,first,City,and,State,serviced,by,this,ZIP,Code,the,second,City,and,State,serviced,by,this,ZIP,Code,etc

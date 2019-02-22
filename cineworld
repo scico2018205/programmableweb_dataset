@@ -1,0 +1,1 @@
+Cineworld,Cinemas,is,a,major,UK,movie,theater,chain,The,Cineworld,API,provides,developer,access,to,Cineworld,theater,movie,and,schedule,data,The,basic,HTTP,call,returns,a,list,of,all,cinemas,with,programmed,performances,Results,can,be,filtered,by,adding,film,date,and,cinema,parameters,The,API,returns,JSON,formatted,responses,and,supports,JSONP,callback,parameter

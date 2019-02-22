@@ -1,0 +1,1 @@
+PairsDB,is,a,collection,of,protein,sequences,and,the,BLAST,and,PSI,BLAST,alignments,between,them,Instead,of,running,BLAST,or,PSI,BLAST,individually,results,can,be,retrieved,from,a,database,of,pre,computed,alignments,PairsDB,is,continually,updated,as,it,aims,to,become,as,comprehensive,as,possible,Alignment,results,can,be,retrieved,from,PairsDB,via,SOAP,API
