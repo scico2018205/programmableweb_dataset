@@ -1,0 +1,1 @@
+TED,is,a,non,profit,that,holds,a,set,of,conferences,devoted,to,Ideas,Worth,Spreading,TED,has,opened,their,library,of,over,TEDTalks,and,users,can,access,it,through,an,API,The,API,also,exposes,all,of,the,data,associated,with,the,talks,including,TED,Quotes,events,themes,tags,and,more,It,uses,RESTful,calls,and,responses,are,formatted,in,XML,and,JSON

@@ -1,0 +1,1 @@
+Instacount,is,a,cloud,based,counting,service,that,features,sharded,counters,A,sharded,counter,is,a,counter,whose,count,is,stored,in,independent,shards,and,its,purpose,is,increasing,performance,This,platform,offers,event,tracking,entity,counts,and,public,activity,tracking,The,Instacount,API,is,REST,based,returns,data,in,JSON,format,and,uses,API,Keys,for,authentication

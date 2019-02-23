@@ -1,0 +1,1 @@
+The,SmartyStreets,US,Extract,API,provides,an,endpoint,for,locating,and,authenticating,US,addresses,in,the,arbitrary,text,input,The,API,sends,requests,in,HTTP,and,URI,Query,String,CRUD,format,and,returns,responses,in,JSON,format,Its,access,requires,API,Key,and,Token,authentication

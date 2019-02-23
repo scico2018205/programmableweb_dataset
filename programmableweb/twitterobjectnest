@@ -1,0 +1,1 @@
+The,Twitter,Object,Nest,API,allows,developers,to,programmatically,upload,media,and,other,assets,to,Twitter,a,social,microblogging,service,The,content,type,to,be,uploaded,must,be,a,valid,media,type,as,defined,by,the,IANA,This,API,supports,both,resumable,and,non,resumable,upload,methods,For,files,MB,only,resumable,uploads,may,be,used

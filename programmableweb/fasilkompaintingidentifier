@@ -1,0 +1,1 @@
+The,Fasilkom,Painting,Identifier,API,is,a,service,that,identifies,a,given,painting,as,being,either,abstract,or,realistic,in,style,The,API,only,accepts,images,as,queries,Sample,painting,images,are,available,for,users,to,try,with,the,online,demo,web,console,The,Painting,Identifier,API,can,be,accessed,using,SOAP,calls,issued,in,XML,format

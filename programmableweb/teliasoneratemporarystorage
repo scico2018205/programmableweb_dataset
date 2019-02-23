@@ -1,0 +1,1 @@
+The,RESTful,Temporary,Storage,API,allows,users,to,to,temporarily,store,a,file,to,the,server,The,stored,file,exists,until,it,is,read,with,a,GET,request,or,deleted,with,a,DELETE,request,This,can,be,used,in,storing,images,in,MMS,messages

@@ -1,0 +1,1 @@
+The,ChemSpell,Web,Service,API,is,a,chemical,names,spell,checker,and,synonym,look,up,provided,by,the,National,Library,of,Medicine,When,a,chemical,name,is,submittted,ChemSpell,returns,a,list,of,chemical,synonyms,if,the,name,is,recognized,and,a,list,of,alternate,spelling,suggestions,if,it,is,not,This,is,a,free,SOAP,API,providing,XML,formatted,responses

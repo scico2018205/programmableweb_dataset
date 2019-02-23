@@ -1,0 +1,1 @@
+The,Gamepad,API,from,Mozilla,provides,new,events,on,a,Window,object,for,reading,gamepad,and,controller,state,It,also,enables,the,ability,to,query,the,state,of,connected,gamepads,with,an,added,Gamepad,object,Per,provider,API,specifications,are,not,yet,stabilized

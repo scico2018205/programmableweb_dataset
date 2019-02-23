@@ -1,0 +1,1 @@
+The,Furkot,API,is,a,trip,planning,and,networking,portal,It,allows,users,to,access,detailed,descriptions,of,their,trip,data,including,the,duration,and,designated,stops,of,specific,trips,The,RESTful,API,is,accessed,using,OAuth,authentication,while,its,requests,and,responses,are,conveyed,in,JSON,format

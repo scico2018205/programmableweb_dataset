@@ -1,0 +1,1 @@
+This,experimental,API,takes,any,URL,and,returns,a,plain,HTML,version,of,the,page,s,main,content,Ads,navigation,and,other,cruft,is,removed,letting,readers,focus,on,the,content,With,the,API,users,can,scrape,any,website,The,API,uses,RESTful,protocol,and,currently,allows,for,a,single,call,Responses,are,formatted,in,JSON

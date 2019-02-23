@@ -1,0 +1,1 @@
+The,Whatsapp,Chat,API,Daemon,API,allows,users,to,send,and,receive,Whatsapp,messages,in,their,own,programs,using,websockets,or,HTTP,It,does,this,by,using,the,PHP,based,Chat,API,library,to,access,Whatsapp,This,API,was,created,so,that,developers,could,use,Chat,API,to,interact,with,Whatsapp,even,if,their,projects,weren,t,written,in,PHP

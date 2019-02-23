@@ -1,0 +1,1 @@
+The,Population,io,API,is,an,independent,project,that,uses,official,demographic,data,produced,by,the,United,Nations,to,project,individual,life,expectancy,by,date,and,place,of,birth,API,functionality,includes,determining,world,population,rank,calculating,life,expectancy,retrieving,population,tables,and,more,The,API,takes,GET,HTTP,requests,and,can,return,data,in,JSON,JSONP,and,HTML

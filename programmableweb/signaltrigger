@@ -1,0 +1,1 @@
+SignalTrigger,is,an,API,for,sending,messages,to,instant,messaging,services,from,computer,code,This,can,be,useful,for,notifying,the,recipient,when,a,connection,is,lost,when,a,script,completes,when,an,API,call,fails,etc,Currently,the,API,supports,communication,with,Skype,Whatsapp,Twitter,Hangouts,Yo,E,mail,SMS,XMPP,Jabber,Pushbullet,and,VK

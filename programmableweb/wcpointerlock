@@ -1,0 +1,1 @@
+The,W,C,Pointer,Lock,API,is,a,specification,that,defines,an,API,for,providing,scripted,access,to,raw,mouse,movement,data,while,also,locking,a,mouse,event,s,target,to,a,single,element,and,hiding,the,cursor,from,view,This,input,mode,is,especially,important,for,D,applications,that,rely,on,first,person,perspective,and,D,modeling,software

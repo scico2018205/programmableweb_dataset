@@ -1,0 +1,1 @@
+CocoaPods,is,a,dependency,manager,for,Objective,C,It,can,handle,cross,dependency,resolution,semantic,version,managements,and,automatic,integration,CocoaPods,does,not,automatically,resolve,dependency,conflicts,but,instead,notifies,the,user,that,a,conflict,has,occurred,and,allows,them,to,resolve,it,themselves,Users,can,search,CocoaPods,programmatically,using,the,REST,API

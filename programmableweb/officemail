@@ -1,0 +1,1 @@
+The,Office,Mail,API,allows,access,to,a,user,s,full,inbox,and,mail,messages,mailbox,folders,and,associated,metadata,Using,the,API,developers,can,read,compose,and,send,emails,In,order,to,access,the,Office,APIs,developers,must,first,register,their,apps,with,Microsoft,All,APIs,use,JSON,with,the,Auth,protocol,for,authentication,and,Azure,AD,for,authorization

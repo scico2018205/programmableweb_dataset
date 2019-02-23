@@ -1,0 +1,1 @@
+The,W,C,Generic,Sensor,API,defines,a,blueprint,for,writing,specifications,of,concrete,sensors,It,also,defines,an,abstract,sensor,interface,that,users,can,extend,to,accommodate,different,types,of,sensors,The,W,C,Generic,Sensor,API,is,intended,to,help,promote,consistency,across,sensor,APIs,and,make,it,easier,and,faster,to,expose,new,sensors,over,the,web

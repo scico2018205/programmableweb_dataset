@@ -1,0 +1,1 @@
+hbookmark,is,a,way,to,archive,and,sort,links,via,twitter,The,purpose,of,the,hbookmark,API,is,to,expose,hbookmark,s,functionalities,through,HTTP,based,GET,requests,The,API,supports,the,following,requests,to,retrieve,and,search,bookmarks,than,have,been,tagged,bm,on,twitter,bookmarks,tagged,tags,search,bookmarkedby,Responses,are,formatted,in,JSON

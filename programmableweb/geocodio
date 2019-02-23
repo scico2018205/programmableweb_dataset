@@ -1,0 +1,1 @@
+Geocodio,provides,bulk,geocoding,and,reverse,lookup,services,through,a,REST,API,The,API,is,able,to,process,a,single,address,as,well,as,handle,bulk,requests,of,up,to,addresses,Geocoded,results,are,returned,with,an,accuracy,score,indicating,the,confidence,Geocodio,has,in,the,accuracy,of,the,result,Geocodio,is,also,able,to,parse,addresses,into,individual,components

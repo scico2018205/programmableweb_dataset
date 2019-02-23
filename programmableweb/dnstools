@@ -1,0 +1,1 @@
+DNS,Tools,is,a,simple,API,that,lets,users,resolve,DNS,addresses,into,IP,addresses,as,well,as,the,other,way,around,It,also,can,return,a,client,s,IP,address,The,API,uses,HTTP,calls,and,responses,are,formatted,in,JSON,Client,libraries,are,also,available,to,developers

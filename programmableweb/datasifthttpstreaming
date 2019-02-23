@@ -1,0 +1,1 @@
+The,DataSift,HTTP,Streaming,API,allows,you,to,subscribe,to,DataSift,streams,using,HTTP,streaming,This,DataSift,client,opens,an,HTTP,connection,and,consumes,DataSift,content,passed,along,that,connection,until,one,of,the,parties,closes,the,connection,DataSift,provides,real,time,human,generated,data,including,social,data,blogs,and,news,data

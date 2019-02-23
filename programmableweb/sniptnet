@@ -1,0 +1,1 @@
+Snipt,is,a,service,to,share,and,refer,back,to,code,snippets,commands,that,programmers,use,frequently,The,Snipt,API,is,for,developers,who,want,to,create,their,own,applications,that,can,interact,with,Snipt,All,methods,use,HTTP,GET,requests,which,means,developers,can,request,data,from,Snipt,but,not,send,data,to,Snipt

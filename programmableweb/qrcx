@@ -1,0 +1,1 @@
+qr,cx,provides,a,basic,API,which,can,be,used,to,harness,qr,cx,s,URL,shortening,service,for,other,applications,This,works,by,accessing,a,particular,URL,on,the,qr,cx,site,which,accepts,the,long,URL,you,would,like,shortened,as,a,parameter,The,shortened,URL,or,various,error,conditions,will,then,be,returned,in,the,HTTP,response

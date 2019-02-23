@@ -1,0 +1,1 @@
+The,GetRateSummary,API,allows,developers,to,access,the,current,rates,and,the,previous,weeks,rates,per,loan,type,from,Zillow,Mortgage,Marketplace,Current,supported,loan,types,are,year,fixed,year,fixed,and,ARM,The,GetRateSummary,API,aims,to,return,rates,for,a,specific,state,if,the,optional,state,parameter,is,used

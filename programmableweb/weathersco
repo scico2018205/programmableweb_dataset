@@ -1,0 +1,1 @@
+Weathers,co,offers,a,simple,integration,that,displays,basic,weather,information,within,a,third,party,application,This,API,supports,GET,requests,with,the,city,parameter,which,returns,temperature,sky,conditions,humidity,wind,speed,date,and,day,when,temperature,was,measured,JSON,is,used,for,data,exchange

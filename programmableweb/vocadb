@@ -1,0 +1,1 @@
+VocaDB,offers,an,international,music,database,dedicated,to,singing,synthesizers,such,as,Vocaloid,and,UTAU,The,database,contains,information,related,to,artists,albums,and,music,videos,The,API,is,REST,based,and,responds,in,XML,and,JSON,formats,For,GET,requests,the,required,format,is,either,JSONP,or,CORS,CORS,is,used,for,POST,requests

@@ -1,0 +1,1 @@
+The,GetSearchResults,API,allows,developers,to,find,Zillow,listings,for,a,property,for,a,specified,address,The,aim,of,the,returned,content,is,to,contain,the,address,for,the,property,or,properties,the,Zillow,Property,ID,ZPID,current,Zestimate,the,date,the,Zestimate,was,computed,a,valuation,range,and,the,Zestimate,ranking,for,the,property,within,its,ZIP,code

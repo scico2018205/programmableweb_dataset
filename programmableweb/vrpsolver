@@ -1,0 +1,1 @@
+VRPSolver,is,a,web,service,that,addresses,the,Vehicle,Routing,Problem,Specifically,VRPSolver,was,designed,as,part,of,a,delivery,planning,system,to,address,capacitated,routing,with,a,single,depot,The,service,is,built,around,genetic,algorithms,VRPSolver,is,implemented,as,a,SOAP,web,service,Access,is,free,but,does,require,a,client,key

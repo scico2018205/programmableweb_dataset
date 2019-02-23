@@ -1,0 +1,1 @@
+The,Mammalian,Neurogenesis,Gene,Ontology,MANGO,is,a,searchable,database,describing,the,key,stages,in,the,development,of,adult,hippocampal,neural,stem,cells,MANGO,is,exposed,to,developers,through,an,API,The,MANGO,API,accepts,HTTP,GET,requests,and,returns,HTML,XML,or,text,formatted,files,Exposed,fields,include,GeneID,PubMedID,cell,stage,effect,evidence,species,type,and,expression

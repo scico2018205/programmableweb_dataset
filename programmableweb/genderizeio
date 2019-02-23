@@ -1,0 +1,1 @@
+Genderize,io,is,an,API,that,determines,the,gender,of,first,names,Potential,uses,include,segmenting,a,list,of,users,for,marketing,or,analytics,The,API,accepts,HTTP,GET,POST,calls,specifying,a,list,of,names,and,returns,a,JSON,formatted,response

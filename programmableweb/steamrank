@@ -1,0 +1,1 @@
+SteamRank,is,a,website,where,users,can,look,up,information,about,players,on,Steam,They,also,make,this,information,available,through,the,SteamRank,API,The,API,has,a,profile,call,which,retrieves,most,of,the,available,information,about,a,given,Steam,ID,and,an,ageEstimate,call,which,retrieves,the,estimated,age,of,a,given,Steam,ID,in,seconds

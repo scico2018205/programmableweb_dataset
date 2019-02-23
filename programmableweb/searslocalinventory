@@ -1,0 +1,1 @@
+Sears,s,Local,Inventory,API,gives,users,access,to,an,inventory,database,for,Sears,and,Kmart,stores,Searches,return,the,number,of,stores,near,a,specified,zip,code,where,the,product,is,available,Information,on,store,hours,store,phone,numbers,distance,to,a,specified,store,product,parts,and,amount,of,inventory,is,also,included,This,API,is,RESTful,XLM,and,JSON,formatted

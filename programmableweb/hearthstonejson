@@ -1,0 +1,1 @@
+The,HearthstoneJSON,API,is,Blizzard,Entertainment,s,official,API,for,building,game,applications,for,Hearthstone,cards,Its,cards,json,file,hosts,a,card,object,lists,of,all,the,cards,in,the,game,The,API,is,programmed,to,recognize,every,single,item,in,a,playing,stack,as,a,card,The,API,conveys,requests,and,responses,in,JSON,format

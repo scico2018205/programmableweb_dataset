@@ -1,0 +1,1 @@
+The,RESTful,Landmark,API,allows,the,user,to,input,geographical,positions,such,as,landmarks,location,etc,to,be,used,in,other,applications,The,position,data,is,updatable,with,history,also,being,available,A,user,can,request,the,latest,position,or,an,instance,of,the,position,history,Responses,can,be,in,XML,and,JSON,format

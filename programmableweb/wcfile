@@ -1,0 +1,1 @@
+The,W,C,File,API,document,specifies,an,API,for,representing,file,objects,in,web,applications,programmatically,selecting,them,and,accessing,their,data,This,API,includes,a,FileList,interface,a,Blob,interface,a,File,interface,a,FileReader,interface,and,a,URL,scheme,that,allows,binary,data,such,as,files,to,be,referenced,by,web,applications

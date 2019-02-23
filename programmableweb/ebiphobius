@@ -1,0 +1,1 @@
+Phobius,is,a,tool,that,uses,the,amino,acid,sequence,of,a,protein,to,predict,transmembrane,topology,which,regions,of,the,polypeptide,chain,span,the,lipid,bilayer,and,to,identify,potential,signal,peptides,sequences,that,direct,protein,transport,The,Phobius,API,provides,access,to,the,functionality,of,this,tool,via,REST,and,SOAP,protocols

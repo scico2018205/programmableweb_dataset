@@ -1,0 +1,1 @@
+My,API,Films,is,an,API,the,provides,unofficial,access,to,the,IMDB,site,through,a,REST,search,function,The,API,returns,XML,or,JSON,and,can,be,used,to,query,most,fields,in,the,IMDB,site,The,site,restricts,usage,to,calls,per,day,and,users,are,not,required,to,get,an,account,or,use,any,sort,of,request,authentication

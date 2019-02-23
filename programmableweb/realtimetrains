@@ -1,0 +1,1 @@
+RealTime,Trains,provides,railway,information,across,the,British,rail,system,RealTime,Trains,makes,use,of,five,feeds,from,the,Network,Rail,open,data,platform,and,exposes,this,data,through,an,API,The,API,is,available,as,a,feed,that,pushes,data,out,or,as,a,RESTlike,API,that,pulls,data,through,HTTPS,calls

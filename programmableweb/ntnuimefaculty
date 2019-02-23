@@ -1,0 +1,1 @@
+Data,is,fetched,from,the,University,database,and,queried,via,a,WebService,interface,Users,can,fetch,courses,schedules,and,organizational,data,from,NTNU,s,official,databases,The,API,uses,a,RESTful,interface,and,responses,are,formatted,in,either,JSON,or,TXT

@@ -1,0 +1,1 @@
+Taginfo,is,a,web,service,for,OpenStreetMap,OSM,that,collects,and,shares,metadata,describing,the,tags,OSM,uses,to,add,meaning,to,geographic,objects,The,Taginfo,API,provides,developer,access,to,the,tag,database,All,calls,to,the,RESTful,API,use,the,HTTP,GET,request,and,are,read,only

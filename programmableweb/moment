@@ -1,0 +1,1 @@
+The,Moment,API,allows,users,to,send,scheduled,HTTP,requests,to,their,app,to,trigger,server,side,processes,or,pull,data,from,any,public,resource,for,the,app,to,analyze,The,API,allows,users,to,schedule,new,jobs,update,a,scheduled,job,or,delete,a,scheduled,job,It,uses,RESTful,protocol,and,responses,are,formatted,in,JSON

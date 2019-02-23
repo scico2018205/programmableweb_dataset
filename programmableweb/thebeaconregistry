@@ -1,0 +1,1 @@
+The,Beacon,Registry,allows,providers,to,create,and,maintain,a,registration,record,for,the,UUID,major,minor,combination,of,any,Bluetooth,Low,Energy,device,including,iBeacons,The,API,uses,HTTP,PUSH,and,accepts,returns,data,in,XML,or,JSON,Use,the,API,to,program,specific,information,that,will,be,pushed,to,a,user,when,in,proximity,of,your,Bluetooth,Beacon

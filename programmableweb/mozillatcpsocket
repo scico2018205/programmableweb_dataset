@@ -1,0 +1,1 @@
+The,Mozilla,TCP,Socket,API,is,a,dedicated,tool,for,opening,and,deploying,TCP,connections,This,provides,developers,with,greater,flexibility,to,build,own,TCP,IP,based,protocols,or,implement,any,TCP,hosted,protocols,including,HTTP,IMAP,IRC,and,POP,among,others,The,API,s,deployment,is,restricted,to,certified,or,privileged,applications

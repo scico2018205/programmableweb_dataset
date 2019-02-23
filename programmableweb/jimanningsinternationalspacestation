@@ -1,0 +1,1 @@
+The,International,Space,Station,API,is,a,free,web,service,built,by,developer,Jim,Anning,The,API,maintains,a,database,of,Two,Line,Element,TLE,data,for,the,International,Space,Station,ISS,When,a,user,makes,a,request,the,API,finds,the,nearest,valid,TLE,and,calculates,the,station,s,location,The,API,returns,the,latitude,longitude,altitude,and,velocity,of,the,ISS,at,any,given,time

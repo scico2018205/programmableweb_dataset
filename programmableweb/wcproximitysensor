@@ -1,0 +1,1 @@
+The,W,C,Proximity,Sensor,API,is,a,specification,that,defines,a,sensor,interface,for,monitoring,the,presence,of,nearby,objects,It,is,designed,to,extend,the,W,C,Generic,Sensor,API,to,provide,proximity,level,information,This,information,is,reported,as,the,distance,from,the,sensor,to,the,nearest,visible,surface,and,is,given,in,centimeters

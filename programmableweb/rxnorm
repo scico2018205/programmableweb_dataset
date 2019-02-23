@@ -1,0 +1,1 @@
+RxNorm,provides,normalized,names,for,clinical,drugs,and,links,its,names,to,many,of,the,drug,vocabularies,commonly,used,in,pharmacy,management,and,drug,interaction,software,There,are,two,RxNorm,APIs,SOAP,WSDL,and,RESTful,available,to,provide,developers,with,functions,for,retrieving,RxNorm,data,from,the,most,current,RxNorm,data,set,Data,can,be,returned,in,XML,or,JSON

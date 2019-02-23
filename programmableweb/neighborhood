@@ -1,0 +1,1 @@
+The,Neighborhood,API,is,a,service,that,allows,users,to,find,the,U,S,neighborhood,that,corresponds,with,a,given,set,of,geographic,coordinates,i,e,latitude,and,longitude,The,service,is,free,unless,users,wish,to,donate,or,want,to,pay,for,their,own,dedicated,instance,Users,can,access,the,API,via,REST,calls,issued,in,JSON,format

@@ -1,0 +1,1 @@
+The,Roll,the,Dice,API,is,a,simple,GET,call,to,roll,dice,on,the,web,Users,may,specify,the,number,of,sides,on,the,dice,Roll,the,Dice,is,a,RESTful,API,built,upon,the,Get,Set,API,specification,Results,are,returned,in,JSON,or,JSONP,format

@@ -1,0 +1,1 @@
+IDlight,is,a,public,identity,lookup,service,It,uses,standards,like,Webfinger,XRD,and,hCard,to,retrieve,public,profiles,Other,well,known,profile,sources,are,explored,as,well,The,API,uses,RESTful,calls,and,responses,are,formatted,in,XML,and,JSON

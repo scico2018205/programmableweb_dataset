@@ -1,0 +1,1 @@
+The,Minecraft,Server,API,is,a,RESTful,API,for,querying,Minecraft,server,status,and,statistics,such,as,playerlist,and,pluginlist,The,API,returns,serialized,arrays,JSON,objects,and,favicon,It,is,a,simple,service,to,integrate,with,existing,websites

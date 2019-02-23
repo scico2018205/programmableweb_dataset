@@ -1,0 +1,1 @@
+With,the,Mozilla,Page,Visibility,API,users,know,when,a,page,is,in,focus,considering,tabbed,browsing,The,aim,of,the,API,in,this,case,is,to,send,a,visibilitychange,event,to,improve,user,experience,To,illustrate,when,a,web,application,plays,a,video,the,page,will,automatically,stand,by,until,the,user,returns,to,the,tab

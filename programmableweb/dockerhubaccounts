@@ -1,0 +1,1 @@
+The,Docker,Hub,Accounts,API,facilitates,Docker,user,accounts,management,The,API,uses,GET,POST,methods,with,JSON,over,HTTP,Requests,are,authenticated,with,either,HTTP,Basic,or,OAuth,Bearer,Token,Use,Docker,Hub,Accounts,to,update,a,user,and,add,list,or,delete,an,email,for,a,user

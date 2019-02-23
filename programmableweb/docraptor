@@ -1,0 +1,1 @@
+DocRaptor,is,a,RESTful,API,that,allows,users,to,generate,PDF,and,Excel,documents,using,simple,HTML,Users,can,use,styles,to,style,the,HTML,and,it,will,translate,to,some,XLS,PDF,formatting,The,API,also,has,the,ability,to,run,any,JavaScript,in,the,HTML,document,before,converting,it,The,API,works,in,any,programming,language,and,even,supports,Java

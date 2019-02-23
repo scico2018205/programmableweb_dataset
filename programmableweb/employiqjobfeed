@@ -1,0 +1,1 @@
+This,free,API,uses,EmployIQ,to,search,find,and,standardize,thousands,of,daily,job,listings,from,multiple,sources,The,data,generated,through,the,API,feed,is,meant,to,be,syndicated,through,a,caching,and,updating,feature,therefore,the,feed,has,a,two,second,response,delay,This,API,does,not,require,HTML,links,to,EmployIQ,and,all,data,is,in,JSON,format

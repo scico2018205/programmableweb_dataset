@@ -1,0 +1,1 @@
+QuantConnect,s,REST,API,v,aims,to,increment,versions,with,routing,or,JSON,variable,mapping,changes,The,API,allows,developers,to,map,out,the,endpoints,and,JSON,is,used,to,perform,basic,processes,in,QuantConnect,via,a,REST,API,Requests,are,rate,limited,to,one,request,every,seconds,QuantConnect,is,a,financial,data,algorithm,platform

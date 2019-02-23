@@ -1,0 +1,1 @@
+The,simple,OEC,Time,Zone,API,accepts,a,time,zone,as,an,input,and,returns,the,corresponding,local,time,The,zone,can,be,abbreviated,i,e,PST,EST,or,spelled,out,in,full,i,e,Eastern,Standard,Time,Subscribers,to,the,API,are,able,to,return,calls,minute,with,limit,of,calls,week,Increased,API,limits,require,administrator,approval

@@ -1,0 +1,1 @@
+The,Wi,Flight,API,allows,users,to,access,bulk,data,from,flights,integrate,a,dispatch,and,reservation,system,to,Wi,Flight,as,well,as,construct,additional,front,end,functions,The,API,uses,the,rest,REST,protocol,and,returns,data,in,XML,format,Most,operations,of,the,service,require,that,clients,be,logged,in,but,certain,public,data,is,accessible,without,log,in

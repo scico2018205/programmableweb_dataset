@@ -1,0 +1,1 @@
+RdbHost,creates,a,database,using,the,PostgreSQL,engine,exclusively,for,your,use,First,you,need,to,create,an,account,then,you,will,get,a,database,that,can,be,accessed,via,HTTP,requests,and,regular,SQL

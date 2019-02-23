@@ -1,0 +1,1 @@
+Codero,is,a,cloud,hosting,service,and,infrastructure,as,a,service,They,offer,an,API,to,help,developers,integrate,Codero,services,into,a,cloud,based,development,architecture,The,API,can,display,server,information,edit,server,login,access,reset,servers,and,delete,servers,from,use,All,requests,to,the,API,are,made,over,HTTP,with,basic,HTTP,authentication,and,returns,as,a,jSON,object

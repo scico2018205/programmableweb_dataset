@@ -1,0 +1,1 @@
+The,Weekly,CO,API,is,a,JSONP,service,providing,the,latest,weekly,atmospheric,CO,average,as,measured,at,NOAA,s,Mauna,Loa,Observatory,in,Hawaii,The,data,is,sourced,from,MLO,s,RSS,feed,The,averages,recorded,for,the,same,week,and,years,ago,can,also,be,retrieved,Responses,are,formatted,in,plain,text

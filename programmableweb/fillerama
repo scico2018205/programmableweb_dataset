@@ -1,0 +1,1 @@
+Fillerama,is,a,web,service,that,generates,placeholder,text,composed,of,quotes,from,Futurama,Star,Wars,Dexter,The,Simpsons,Doctor,Who,and,more,Fillerama,is,exposed,through,a,simple,API,Developers,specify,the,number,of,sentences,the,format,and,the,show,from,which,quotes,will,be,generated,The,API,responds,with,JSON,or,XML,formatted,text,Callbacks,are,supported,via,JSONP

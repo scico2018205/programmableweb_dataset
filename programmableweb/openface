@@ -1,0 +1,1 @@
+OpenFace,API,is,a,web,service,providing,facial,detection,technologies,The,API,accepts,an,image,and,returns,a,JSON,file,containing,coordinates,of,facial,feature,points,Currently,able,to,detect,up,to,points,on,a,given,face,the,API,expects,to,provide,emotion,detection,lip,reading,from,video,and,other,services,in,the,future

@@ -1,0 +1,1 @@
+ProBiS,is,a,service,that,allows,users,to,find,binding,site,similarities,and,local,pairwise,alignments,for,any,PDB,RCSB,Protein,Data,Bank,protein,structure,ProBiS,contains,records,of,over,structures,against,which,proteins,input,by,the,user,can,be,compared,The,RESTful,ProBiS,API,allows,users,to,retrieve,information,in,XML,JSON,or,PDB,format

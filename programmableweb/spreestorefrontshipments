@@ -1,0 +1,1 @@
+Spree,StoreFront,Shipments,API,allows,developers,to,make,RESTful,requests,to,retrieve,a,list,of,the,current,user,s,shipments,Some,requests,to,this,API,are,restricted,to,admin,users,only,Developers,communicate,with,the,API,using,the,JSON,data,format,Requests,for,data,use,the,standard,HTTP,protocol,Spree,Commerce,is,an,automated,enterprise,solution,focused,on,ecommerce

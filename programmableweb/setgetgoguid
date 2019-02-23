@@ -1,0 +1,1 @@
+The,Guid,API,provides,users,with,a,simple,GET,call,to,generate,a,GUID,A,GUID,is,a,globally,unique,identifier,stored,as,a,bit,integer,The,GUID,API,is,a,RESTful,API,built,upon,the,Get,Set,API,specification

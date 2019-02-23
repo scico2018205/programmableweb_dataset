@@ -1,0 +1,1 @@
+Roci,Reconstruction,Of,Conserved,Intervals,is,a,tool,for,reconstructing,the,ancestral,gene,orders,of,phylogenetic,trees,Given,the,branching,pattern,of,a,phylogenetic,tree,and,the,gene,orders,of,the,leaf,nodes,it,calculates,sets,of,gene,orders,for,the,inner,nodes,Roci,can,be,used,as,a,web,console,or,as,a,SOAP,API

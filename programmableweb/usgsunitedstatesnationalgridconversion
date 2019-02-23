@@ -1,0 +1,1 @@
+The,USNG,Web,Service,returns,the,United,States,National,Grid,Coordinate,for,a,specific,latitutde,longitude,point,or,the,Latitude,longitude,for,a,USNG,position,It,also,returns,the,latitude,longitude,of,a,point,given,the,USNG,coordinate,The,API,uses,SOAP,protocol,and,responses,are,formatted,in,XML

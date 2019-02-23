@@ -1,0 +1,1 @@
+LTC,Data,provides,basic,litecoin,mining,data,to,developers,The,LTC,API,allows,users,to,incorporate,the,litecoin,information,into,applications,using,REST,calls,and,returning,JSON,The,API,can,make,calls,to,get,the,current,network,hashrate,seconds,per,block,current,block,block,difficulty,next,block,difficulty,and,addresses,to,hash,at,No,account,is,required,for,use,and,use,is,free

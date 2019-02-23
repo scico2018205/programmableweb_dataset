@@ -1,0 +1,1 @@
+The,PayPal,Billing,Agreements,API,retrieves,data,related,to,an,agreement,It,can,create,an,agreement,update,an,agreement,show,agreement,details,and,cancel,agreements,It,is,available,with,REST,architecture,in,JSON,body,The,example,available,presents,how,to,create,a,PayPal,payment,agreement,that,overrides,merchant,preferences,and,shipping,fee,and,tax,information

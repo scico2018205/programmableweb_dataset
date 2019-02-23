@@ -1,0 +1,1 @@
+The,Mozilla,Web,Workers,API,is,a,browser,based,API,for,handling,web,workers,which,are,mechanisms,for,running,script,operations,in,a,background,thread,of,a,web,application,This,prevents,such,operations,from,blocking,or,slowing,down,the,main,thread,with,their,processing,requirements,This,API,covers,dedicated,workers,shared,workers,service,workers,chrome,workers,and,audio,workers

@@ -1,0 +1,1 @@
+OAuth,Authorizations,API,is,used,to,manage,OAuth,applications,It,can,only,accessed,this,API,via,Basic,Authentication,using,username,and,password,not,tokens,This,API,allows,users,to,list,get,create,update,delete,check,and,reset,an,authorization,Additionally,it,also,allows,users,to,revoke,all,or,one,authorization,at,a,time

@@ -1,0 +1,1 @@
+minimesos,is,an,experimentation,and,testing,environment,for,the,Mesos,cluster,manager,It,can,create,clusters,which,receive,assertions,from,the,API,after,tests,are,done,the,clusters,are,destroyed,This,is,a,REST,based,API,which,exchanges,data,in,JSON,format,Container,Solutions,is,an,Amsterdam,based,software,consultancy,that,offers,R,D,and,training,services

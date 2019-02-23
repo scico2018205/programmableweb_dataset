@@ -1,0 +1,1 @@
+The,W,C,Input,Method,Editor,API,document,specifies,an,API,that,provides,web,applications,with,access,to,an,input,method,editor,IME,associated,with,a,hosting,user,agent,This,API,provides,attributes,events,and,methods,for,interacting,with,the,current,UI,state,to,an,IME,via,an,InputMethodContext,interface,This,specification,may,change,at,any,time,without,notice

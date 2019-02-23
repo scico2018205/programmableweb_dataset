@@ -1,0 +1,1 @@
+The,Microsoft,Azure,Search,Management,API,is,designed,to,be,used,alongside,Azure,Resource,Manager,by,users,seeking,to,use,it,as,the,provisioning,and,administration,portal,in,the,search,services,of,their,Azure,subscriptions,Developers,are,required,to,specify,the,API,s,ARM,endpoint,with,a,search,management,operation,to,be,able,to,implement,its,programmatic,deployment

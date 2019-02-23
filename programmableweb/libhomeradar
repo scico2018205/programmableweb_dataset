@@ -1,0 +1,1 @@
+Libhomeradar,provides,data,collection,software,enabling,radar,devices,to,collect,and,use,aircraft,data,Libhomeradar,allows,users,to,apply,structure,and,filtering,to,raw,data,and,hosts,an,online,database,of,aircraft,airport,airline,and,flight,information,The,Libhomeradar,API,allows,developers,to,query,the,database,via,HTTP,POST,GET,calls,Responses,are,XML,formatted

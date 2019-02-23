@@ -1,0 +1,1 @@
+Wit,is,a,natural,language,interface,for,applications,capable,of,turning,sentences,into,structured,data,The,Wit,API,allows,HTTP,GET,calls,returning,the,extracted,meaning,from,a,given,sentence,based,on,examples,The,API,authenticates,with,OAuth,and,returns,JSON,formatted,responses

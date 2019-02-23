@@ -1,0 +1,1 @@
+The,GetMonthlyPayments,API,aims,to,return,the,estimated,monthly,payment,that,includes,principal,and,interest,based,on,today,s,mortgage,rate,The,goal,is,to,return,the,estimated,monthly,payment,per,loan,type,year,fixed,year,fixed,and,ARM,If,a,ZIP,code,is,entered,the,estimated,taxes,and,insurance,are,returned,in,the,result,set

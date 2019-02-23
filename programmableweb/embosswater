@@ -1,0 +1,1 @@
+EMBOSS,Water,is,a,program,for,performing,local,pairwise,sequence,alignments,on,DNA,or,protein,sequences,Using,the,Smith,Waterman,local,alignment,algorithm,modified,for,speed,enhancements,this,program,calculates,the,local,alignment,of,two,protein,or,nucleotide,sequences,The,European,Bioinformatics,Institute,makes,EMBOSS,Water,available,as,an,API,via,SOAP,or,REST,protocols

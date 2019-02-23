@@ -1,0 +1,1 @@
+Smarterer,provides,skill,testing,and,assessment,services,The,Smarterer,REST,API,allows,developers,to,access,and,modify,data,within,the,Smarterer,System,Some,of,the,tasks,that,developers,can,do,with,this,API,are,registering,and,authenticating,users,searching,for,tests,and,getting,users,information,i,e,test,scores,The,API,is,RESTful,and,requires,OAuth,for,authentication

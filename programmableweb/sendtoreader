@@ -1,0 +1,1 @@
+Sendtoreader,is,a,service,which,lets,its,users,send,web,pages,to,their,Kindles,to,read,them,later,The,API,allows,third,party,applications,to,send,web,pages,to,their,users,Kindles,in,the,same,manner,as,the,SendtoReader,application,Currently,the,RESTful,API,has,two,calls,one,for,user,authentication,and,one,for,sending,web,pages,to,SendtoReader,for,processing

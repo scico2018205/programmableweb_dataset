@@ -1,0 +1,1 @@
+MxToolBox,allows,users,to,find,out,whether,a,given,domain,has,been,blacklisted,by,checking,its,IP,address,against,DNS,based,blacklists,Users,can,also,verify,reverse,DNS,records,perform,simple,open,relay,checks,and,measure,response,times,Developers,can,use,the,REST,based,MxToolBox,API,to,determine,whether,their,domain,name,or,email,server,has,been,blacklisted

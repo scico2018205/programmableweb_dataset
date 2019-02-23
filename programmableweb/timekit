@@ -1,0 +1,1 @@
+Timekit,provides,a,REST,API,that,works,with,calendars,to,provide,scheduling,event,suggestions,and,calendar,overlays,This,API,is,consumable,by,browser,clients,and,servers,as,well,as,supporting,origin,resource,sharing,All,requests,are,in,standard,HTTP,and,all,responses,are,in,JSON,Authentication,is,user,based,and,requires,a,unique,password,and,API,token

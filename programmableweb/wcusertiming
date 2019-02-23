@@ -1,0 +1,1 @@
+The,W,C,User,Timing,API,defines,an,interface,for,accessing,high,precision,timestamps,that,help,developers,measure,the,performance,of,applications,It,defines,the,PerformanceMark,and,PerformanceMeasure,interfaces,as,well,as,extensions,to,the,Performance,interface,This,is,a,stable,document,and,may,be,cited,or,used,as,reference,material,without,fear,of,major,alteration

@@ -1,0 +1,1 @@
+The,URL,Screenshot,Generator,API,accepts,a,URL,address,and,takes,a,screenshot,of,the,corresponding,site,It,then,returns,the,picture,in,a,png,or,jpg,file,format,with,a,default,image,size,of,pixel,height,by,pixel,width,taking,roughly,total,seconds,to,process,The,URL,Screenshot,Generator,API,is,hosted,through,Mashape,and,requires,a,sign,in,key,to,access

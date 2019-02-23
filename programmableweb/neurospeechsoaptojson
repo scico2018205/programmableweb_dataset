@@ -1,0 +1,1 @@
+This,service,can,be,used,when,the,target,web,service,is,an,XML,SOAP,web,service,and,you,need,to,invoke,it,with,JSON,format,It,takes,JSON,input,and,converts,it,to,XML,SOAP,request,and,takes,XML,SOAP,response,and,converts,it,back,to,JSON,JSON,is,more,lightweight,than,SOAP,and,is,easier,for,mobile,web,apps,to,consume,In,depth,knowledge,of,REST,API,is,also,necessary

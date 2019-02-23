@@ -1,0 +1,1 @@
+PNRDekho,is,a,PNR,number,verifier,where,users,can,enter,their,passenger,name,record,PNR,and,receive,the,status,of,the,passengers,ticket,and,travel,plans,The,Indian,Railways,API,is,an,unofficial,web,service,providing,access,to,Indian,Railways,data,The,API,is,capable,of,querying,PNR,status,This,API,accepts,simple,HTTP,requests,and,returns,JSON,formatted,responses

@@ -1,0 +1,1 @@
+The,Telize,API,allows,users,to,get,a,site,visitor,s,IP,address,and,then,use,it,to,obtain,location,information,using,REST,calls,The,API,accepts,calls,in,both,JSON,and,JSONP,and,it,returns,the,requested,IP,geolocation,data,in,JSON,As,of,this,writing,the,service,is,free,to,use,and,has,no,rate,limits

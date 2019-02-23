@@ -1,0 +1,1 @@
+This,API,provides,real,time,data,streaming,connections,for,OANDA,customers,that,require,an,alternative,to,the,REST,API,All,streaming,connections,are,authenticated,and,adheres,to,the,chunked,transfer,encoding,data,transfer,mechanism,of,HTTP,OANDA,provides,FX,CFD,trading,exchange,rates,data,and,corporate,FX,payments

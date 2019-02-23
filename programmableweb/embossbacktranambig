@@ -1,0 +1,1 @@
+The,EMBOSS,Backtranambig,API,reads,a,protein,sequence,input,by,the,user,and,then,writes,the,nucleic,acid,sequence,it,could,have,come,from,To,do,so,it,uses,nucleotide,ambiguity,codes,that,represent,all,possible,codons,for,each,amino,acid,The,API,is,available,in,both,RESTful,and,SOAP,forms,and,responses,are,formatted,in,XML

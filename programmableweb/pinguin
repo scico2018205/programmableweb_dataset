@@ -1,0 +1,1 @@
+This,simple,API,lets,users,ping,an,IP,or,URL,Users,pass,an,IP,address,or,a,domain,and,receive,a,true,false,response,as,well,as,the,time,of,the,response,It,uses,HTTP,calls,and,responses,are,formatted,in,JSON

@@ -1,0 +1,1 @@
+In,math,the,Spearman,correlation,measures,the,statistical,dependence,between,two,variables,X,and,Y,The,simple,API,at,spearmancorrelation,com,can,be,used,to,calculate,the,Spearman,correlation,coefficient,for,any,set,of,data,The,API,uses,RESTful,calls,and,responses,are,formatted,in,XML,and,JSON

@@ -1,0 +1,1 @@
+The,Gazetteer,Query,Web,Service,returns,the,Geographic,Names,Information,System,GNIS,point,from,a,copy,of,the,USGS,GNIS,datasets,hosted,at,USGS,EROS,Methods,include,searchName,showGazetteerData,and,searchLocalName,The,API,uses,SOAP,protocol,and,responses,are,formatted,in,XML

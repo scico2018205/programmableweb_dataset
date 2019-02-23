@@ -1,0 +1,1 @@
+The,EMBOSS,Transeq,API,translates,nucleic,acid,sequences,into,their,corresponding,peptide,sequences,It,can,translate,the,three,forward,and,three,reverse,reading,frames,found,in,DNA,and,output,multiple,frame,translations,at,once,The,API,is,available,in,both,RESTful,and,SOAP,forms,and,responses,are,formatted,in,XML

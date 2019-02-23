@@ -1,0 +1,1 @@
+The,SmartyStreets,US,Zip,Code,API,supports,the,combination,of,city,state,and,ZIP,Code,field,entries,in,address,lookup,and,verification,queries,for,US,locations,The,API,sends,requests,in,HTTP,and,URI,Query,String,CRUD,format,and,returns,responses,in,JSON,format,Its,access,requires,API,Key,and,Token,authentication

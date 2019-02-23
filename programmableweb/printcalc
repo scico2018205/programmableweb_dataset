@@ -1,0 +1,1 @@
+The,PrintCalc,API,returns,the,percentage,of,a,pdf,eps,or,ps,file,s,CMYK,and,Spot,Color,coverage,The,API,supports,PDF,EPS,and,PS,files,HTTP,POST,is,the,preferred,request,method,The,PrintCalc,API,responds,in,XML,and,JSON,Developers,need,to,request,an,API,Key

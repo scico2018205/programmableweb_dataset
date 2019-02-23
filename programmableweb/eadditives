@@ -1,0 +1,1 @@
+E,additives,API,is,a,REST,based,service,that,returns,JSON,P,The,API,allows,users,to,make,calls,to,get,a,list,of,food,additives,as,well,as,designate,a,sort,order,for,them,Users,can,also,search,for,food,additives,get,information,about,a,single,additive,get,a,list,of,additive,categories,and,get,information,about,a,single,category,An,API,key,is,required,for,use

@@ -1,0 +1,1 @@
+The,cloudXLS,API,accepts,a,CSV,file,and,converts,into,an,XLS,or,XLSX,spreadsheet,It,can,also,receive,an,XLS,or,XLSX,file,to,be,reformatted,into,an,existing,spreadsheet,Templates,exist,for,creating,more,sophisticated,spreadsheets,that,generate,graphical,components,Default,responses,come,in,JSON,with,a,URL,for,direct,download

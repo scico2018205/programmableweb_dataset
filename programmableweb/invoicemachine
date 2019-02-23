@@ -1,0 +1,1 @@
+The,Invoice,Machine,API,makes,it,possible,for,you,to,send,receive,and,remove,data,from,your,account,via,HTTP,POST,calls,There,are,many,situations,where,this,could,be,useful,Let,s,say,you,run,an,online,store,and,want,to,send,an,invoice,to,your,customer,each,time,a,purchase,is,made,This,is,possible,with,just,a,few,lines,of,code,using,the,API

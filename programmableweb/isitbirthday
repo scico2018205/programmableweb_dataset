@@ -1,0 +1,1 @@
+The,IsitBirthday,API,is,a,read,API,that,allows,you,to,create,feeds,to,help,people,remember,your,birthday,The,main,page,allows,you,to,enter,your,name,and,birthday,then,it,will,generate,a,unique,web,page,that,can,be,visited,to,check,if,it,is,the,birthday,that,was,initially,entered,The,API,also,generates,an,RSS,feed,and,gives,the,option,of,receiving,the,information,in,JSON

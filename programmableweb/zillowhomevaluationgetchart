@@ -1,0 +1,1 @@
+The,GetChart,API,allows,developers,to,generate,a,URL,for,an,image,file,that,displays,historical,Zestimates,for,a,specific,property,The,API,uses,the,Zillow,Property,ID,and,a,specified,chart,type,either,percentage,or,dollar,value,change,as,an,input,The,historical,data,can,be,for,the,past,year,years,or,years

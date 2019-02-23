@@ -1,0 +1,1 @@
+The,KVStore,API,or,Kvstore,io,is,a,simple,key,value,API,based,storage,service,Once,signed,up,users,are,assigned,a,storage,space,to,write,and,read,Key,Value,pairs,The,keys,and,values,are,strings,so,it,s,up,to,the,user,to,decode,encode,in,the,right,format,e,g,json,A,set,of,keys,values,is,a,Collection,and,users,can,manage,multiple,collections

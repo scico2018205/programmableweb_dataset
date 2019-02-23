@@ -1,0 +1,1 @@
+Use,the,Tiny,GeoCoder,API,to,turn,a,location,such,as,San,Francisco,CA,into,a,latitude,and,longitude,pair,such,as,This,is,useful,in,mapping,applications,The,API,can,also,handle,reverse,geocoding,in,cases,where,you,know,the,lat,long,but,not,the,location,name,The,public,service,has,been,discontinued,but,the,geocoder,is,now,available,as,open,source

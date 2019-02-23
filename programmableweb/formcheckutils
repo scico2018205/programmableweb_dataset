@@ -1,0 +1,1 @@
+Form,CheckUtils,is,an,API,that,helps,with,validating,data,filled,in,form,fields,by,providing,a,variety,of,string,functions,Functionality,includes,checking,if,the,string,contains,a,certain,number,of,digits,letters,special,characters,spaces,and,more,The,API,uses,HTTP,calls,and,responses,are,formatted,in,JSON

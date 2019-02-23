@@ -1,0 +1,1 @@
+The,Camera,API,from,Mozilla,enables,the,ability,to,upload,pictures,taken,with,a,device,camera,directly,to,a,web,page,Utilized,with,the,File,API,which,accesses,the,photograph,you,can,create,a,URL,referencing,the,photograph,and,set,that,as,the,src,of,the,image,Per,provider,API,specifications,are,not,yet,stabilized

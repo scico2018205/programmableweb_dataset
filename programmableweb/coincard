@@ -1,0 +1,1 @@
+CoinCard,is,a,service,that,allows,users,to,submit,Bitcoins,and,receive,giftcards,in,return,The,CoinCard,API,can,convert,Bitcoins,into,giftcards,and,allows,users,to,structure,requests,to,include,the,type,of,giftcard,the,card,amount,the,currency,to,put,the,card,in,the,email,to,send,the,giftcard,to,and,a,test,run,The,API,uses,REST,calls,and,returns,JSON

@@ -1,0 +1,1 @@
+Ziptastic,is,a,simple,API,that,lets,users,ask,which,Country,State,and,City,are,associated,with,a,Zip,Code,The,aim,is,to,gives,developers,a,way,to,create,forms,with,the,three,above,mentioned,fields,that,can,be,automatically,filled,when,a,user,provides,their,zip,code,The,API,uses,RESTful,calls,and,responses,are,formatted,in,JSON

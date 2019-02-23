@@ -1,0 +1,1 @@
+LoopFuse,provides,a,webservice,API,for,getting,and,inserting,information,from,your,LoopFuse,OneView,account,programatically,LoopFuse,OneView,is,an,enterprise,marketing,automation,platform,Among,the,methods,the,API,performs,are,sending,email,campaigns,to,a,prospect,getting,lead,information,list,management,The,API,uses,a,RESTful,protocol,with,responses,formatted,in,JSON

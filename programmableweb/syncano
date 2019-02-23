@@ -1,0 +1,1 @@
+Syncano,provides,a,backend,as,a,service,that,allows,app,developers,to,synchronize,and,scale,their,data,in,real,time,across,multiple,devices,and,servers,Syncano,s,framework,also,includes,storage,access,managements,and,data,modeling,features,Client,applications,can,gain,access,to,updated,data,by,requesting,it,via,REST,API,or,by,subscribing,to,updates,using,TCP,or,WebSocket

@@ -1,0 +1,1 @@
+RxClass,is,a,drug,interface,terminology,derived,from,RxNorm,for,prescription,writing,or,medication,history,recording,e,g,in,e,prescribing,systems,PHRs,There,API,provides,developers,with,functions,for,retrieving,RxTerms,data,from,the,most,current,data,set,The,API,uses,RESTful,calls,and,responses,are,formatted,in,XML,and,JSON

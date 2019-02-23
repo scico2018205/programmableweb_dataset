@@ -1,0 +1,1 @@
+The,Visual,DataFlex,ISBN,Validation,API,allows,users,to,validate,ISBN,codes,that,are,either,or,digits,long,Note,that,this,API,can,only,determine,whether,an,ISBN,number,is,potentially,valid,not,which,book,it,is,associated,with,nor,whether,it,is,even,in,use,This,API,can,be,accessed,via,SOAP,calls,using,the,XML,data,format

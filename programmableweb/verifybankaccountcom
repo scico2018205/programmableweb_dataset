@@ -1,0 +1,1 @@
+This,API,allows,you,to,verify,that,a,bank,account,is,valid,and,exists,based,on,its,sort,code,routing,number,and,account,number,or,alternatively,based,on,BIC,SWIFT,and,IBAN,numbers,It,is,based,on,the,same,bank,verification,technology,as,Stripe,and,is,functional,in,countries,including,the,USA,UK,and,Australia

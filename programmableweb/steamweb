@@ -1,0 +1,1 @@
+This,API,allows,users,of,the,Steam,game,Team,Fortress,to,include,data,from,their,game,play,such,as,player,rankings,and,stats,on,their,own,sites,The,service,allows,the,user,to,submit,a,request,using,any,of,the,languages,in,the,OpenID,library,or,the,Steam,Condenser,language,pack,and,have,it,returned,in,XML,JSON,or,VDF

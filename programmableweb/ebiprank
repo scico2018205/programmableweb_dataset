@@ -1,0 +1,1 @@
+PRANK,is,a,probabilistic,multiple,alignment,program,for,DNA,codon,and,amino,acid,sequences,It,also,allows,users,to,define,a,potential,structure,for,sequences,to,be,aligned,to,and,predicts,the,locations,of,structural,units,in,the,sequences,The,EBI,PRANK,API,provides,access,to,these,functions,via,SOAP,and,REST,protocols

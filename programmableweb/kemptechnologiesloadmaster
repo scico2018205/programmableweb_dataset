@@ -1,0 +1,1 @@
+This,API,from,KEMP,Technologies,facilitates,remote,access,to,the,LoadMaster,load,balancing,application,LoadMaster,is,RESTful,using,standard,HTTP,GET,requests,with,returns,in,XML,The,API,authenticates,via,HTTP,Basic,Auth,Use,LoadMaster,to,modify,Virtual,Services,or,enable,delete,Real,Servers,and,more

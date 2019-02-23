@@ -1,0 +1,1 @@
+The,W,C,Web,Workers,API,is,a,specification,that,defines,an,API,for,spawning,background,workers,to,run,scripts,in,parallel,to,a,web,application,s,main,page,This,allows,developers,to,use,message,passing,as,the,coordination,mechanism,for,thread,like,operation,This,specification,is,a,work,in,progress,and,may,be,updated,replaced,or,rendered,obsolete,at,any,time

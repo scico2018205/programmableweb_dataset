@@ -1,0 +1,1 @@
+The,Mozilla,Channel,Messaging,API,allows,two,separate,scripts,running,in,different,browser,contexts,to,communicate,directly,as,long,as,they,re,attached,to,the,same,document,e,g,two,IFrames,two,workers,or,two,documents,via,a,SharedWorker,These,scripts,are,able,to,pass,messages,back,and,forth,across,two,way,channels,with,a,port,at,each,end

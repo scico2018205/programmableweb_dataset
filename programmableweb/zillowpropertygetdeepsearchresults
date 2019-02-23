@@ -1,0 +1,1 @@
+The,GetDeepSearchResults,API,aims,to,find,a,property,for,a,specified,address,The,objective,of,the,result,set,returned,is,to,have,the,full,address,s,zpid,and,Zestimate,data,that,is,provided,by,the,GetSearchResults,API,The,API,call,also,returns,property,data,like,lot,size,year,built,bath,beds,last,sale,details,etc

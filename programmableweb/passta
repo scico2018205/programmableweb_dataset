@@ -1,0 +1,1 @@
+Passta,Protein,annotation,by,secondary,structure,based,alignment,helps,determine,whether,a,protein,sequence,is,related,to,a,protein,with,known,structure,For,a,given,protein,sequence,the,program,returns,a,Passta,alignment,with,associated,secondary,structure,element,information,Passta,is,available,as,a,web,console,or,as,a,SOAP,API

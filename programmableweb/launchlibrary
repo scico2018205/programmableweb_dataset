@@ -1,0 +1,1 @@
+The,Launch,Library,API,intends,to,provide,developers,with,a,list,of,upcoming,launches,into,space,from,space,programs,across,Earth,The,API,allows,for,the,sending,of,an,HTTP,GET,request,to,Launch,Library,to,receive,information,on,launch,type,pad,rocket,mission,information,specific,location,country,of,origin,launch,status,and,more

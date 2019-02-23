@@ -1,0 +1,1 @@
+TrackMatching,is,a,cloud,based,web,service,for,matching,GPS,GPX,data,on,the,OpenStreetMap,OSM,road,network,The,service,is,accessible,through,a,REST,API,Supported,data,formats,for,upload,include,GPX,GPX,and,a,custom,CSV,text,format,for,bulk,processing,Responses,may,be,JSON,or,XML,formatted,Only,positions,and,timestamps,are,required

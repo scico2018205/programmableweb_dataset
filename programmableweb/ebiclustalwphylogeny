@@ -1,0 +1,1 @@
+ClustalW,Phylogeny,generates,phylogenetic,trees,from,multiple,sequence,alignment,data,Users,can,choose,between,two,methods,of,calculating,phylogeny,neighbor,joining,or,UPGMA,Unweighted,Pair,Group,Method,with,Arithmetic,Mean,The,ClustalW,Phylogeny,API,provided,by,the,European,Bioinformatics,Institute,makes,these,functions,available,over,SOAP,and,REST,protocols

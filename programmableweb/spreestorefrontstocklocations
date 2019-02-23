@@ -1,0 +1,1 @@
+Spree,StoreFront,Stock,Locations,API,allows,developers,to,get,a,list,of,stock,locations,by,making,RESTful,requests,to,the,API,This,API,is,only,accessible,to,admin,users,Developers,communicate,with,the,API,using,the,JSON,data,format,Requests,for,data,use,the,standard,HTTP,protocol,Spree,Commerce,is,an,automated,enterprise,solution,focused,on,ecommerce

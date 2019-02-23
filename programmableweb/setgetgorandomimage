@@ -1,0 +1,1 @@
+The,Random,Image,API,provides,users,with,a,simple,GET,call,to,generate,a,random,image,from,the,web,Users,can,specify,image,height,and,width,and,have,the,option,of,generating,a,random,Mandelbrot,fractal,image,Random,Image,is,a,RESTful,API,built,upon,the,Get,Set,API,specification,Results,are,returned,in,JSON,or,JSONP,format

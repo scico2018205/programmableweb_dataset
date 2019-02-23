@@ -1,0 +1,1 @@
+The,Java,Stack,Walking,API,provides,a,stream,of,information,in,stack,traces,during,the,execution,of,a,program,The,API,requires,a,Virtual,Machine,to,capture,a,snapshot,of,the,entire,stack,This,returns,an,array,of,elements,for,filtering,purposes,and,to,remove,noise,Developers,can,skip,drop,and,limit,the,StackFrames,with,the,walk,method

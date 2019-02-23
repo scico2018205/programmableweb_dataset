@@ -1,0 +1,1 @@
+The,H,Greve,API,provides,information,regarding,upcoming,current,or,past,Portuguese,strikes,It,provides,the,start,end,date,company,name,the,first,and,last,name,of,the,author,of,each,strike,a,brief,description,of,the,strike,and,a,source,where,the,information,was,gathered,from,The,API,is,HTTP,GET,protocol,and,responses,are,formatted,in,JSON

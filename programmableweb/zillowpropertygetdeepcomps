@@ -1,0 +1,1 @@
+The,GetDeepComps,API,aims,to,return,a,list,of,comparable,recent,sales,for,a,specified,property,The,goal,of,the,returned,result,sets,is,to,list,the,address,Zillow,property,identifier,and,Zestimate,for,the,comparable,properties,and,the,principal,property,for,which,the,comparables,are,being,retrieved,while,also,returning,property,data,for,the,comparables

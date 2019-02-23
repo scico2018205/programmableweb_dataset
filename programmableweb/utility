@@ -1,0 +1,1 @@
+The,Utility,API,offers,a,data,collection,system,that,can,be,integrated,to,renewable,energy,oriented,applications,It,can,be,used,to,gather,utility,bill,and,usage,data,This,is,a,REST,API,and,returns,data,in,JSON,format,Developers,need,an,API,Token,to,use,all,endpoints,UtilityAPI,is,based,in,Oakland,California,and,delivers,simple,access,to,energy,usage,data

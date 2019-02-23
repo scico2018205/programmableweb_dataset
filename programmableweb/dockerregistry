@@ -1,0 +1,1 @@
+The,Docker,Registry,REST,API,stores,the,images,and,graph,for,a,set,of,repositories,Registry,uses,HTTP,PUT,GET,methods,with,JSON,calls,returns,Docker,Registry,does,not,contain,any,user,accounts,data,does,not,have,a,local,database,and,supports,multiple,storage,backends,Use,the,API,to,retrieve,image,layers,get,image,ancestry,or,list,repository,tags

@@ -1,0 +1,1 @@
+cPanel,s,XML,API,allows,you,to,issue,commands,to,cPanel,and,WHM,using,the,XML,language,while,the,JSON,API,allows,you,to,submit,requests,to,the,system,and,receive,a,JSON,response,By,including,these,commands,in,your,custom,scripts,you,can,perform,functions,remotely,without,having,to,access,the,cPanel,or,WHM,user,interface

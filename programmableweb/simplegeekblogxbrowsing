@@ -1,0 +1,1 @@
+Chris,Anderson,author,of,the,blog,simplegeek,provides,the,BlogXBrowsing,API,as,a,method,for,searching,his,blog,API,users,can,retrieve,the,dates,of,entries,entries,for,a,given,date,entry,categories,entries,by,category,and,RSS,subscription,methods,for,the,blog,These,functions,are,accessible,using,SOAP,calls,issued,in,XML,format

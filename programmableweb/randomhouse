@@ -1,0 +1,1 @@
+The,Random,House,API,can,be,used,to,get,data,about,books,authors,works,and,events,A,work,is,defined,as,a,collection,of,titles,that,share,the,same,content,identified,by,a,Random,House,specific,Work,ID,Events,generally,refer,to,author,related,events,such,as,book,signings,This,API,can,be,accessed,via,REST,calls,using,the,XML,or,JSON,data,formats

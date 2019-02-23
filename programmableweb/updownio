@@ -1,0 +1,1 @@
+Updown,is,a,webservice,that,checks,a,website,s,status,by,periodically,sending,a,HTTP,HEAD,request,to,a,specified,URL,Developer,access,to,updown,s,service,is,available,through,a,RESTful,API,The,API,allows,applications,to,fetch,uptime,data,and,automate,checks,Responses,are,JSON,formatted

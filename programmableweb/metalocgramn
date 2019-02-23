@@ -1,0 +1,1 @@
+The,MetaLocGramN,API,provides,a,method,of,subcellular,localization,prediction,for,Gram,negative,proteins,It,acts,as,a,gateway,to,a,number,of,primary,prediction,methods,such,as,signal,peptide,beta,barrel,transmembrane,helices,and,subcellular,localization,predictors,It,then,integrates,the,primary,methods,and,based,on,their,outputs,provides,an,overall,consensus,prediction

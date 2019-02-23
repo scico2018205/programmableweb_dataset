@@ -1,0 +1,1 @@
+The,Google,App,Engine,Task,Queue,API,allows,applications,to,execute,background,work,by,creating,tasks,These,tasks,are,small,discrete,units,of,work,that,are,added,to,task,queues,to,be,executed,later,This,API,is,still,in,Alpha,and,it,may,be,subject,to,backwards,incompatible,changes,As,a,result,it,is,not,recommended,for,production,use

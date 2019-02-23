@@ -1,0 +1,1 @@
+LitePay,App,is,a,web,payment,service,that,handles,payment,for,merchants,utilizing,litecoins,The,service,takes,orders,issues,a,litecoin,pay,address,to,the,customer,to,use,and,confirms,payment,to,the,merchant,The,Litepay,App,API,allows,users,to,request,a,litecoin,address,and,confirm,a,payment,The,service,uses,REST,calls,returns,JSON,and,uses,Access,Tokens,for,authentication

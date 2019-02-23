@@ -1,0 +1,1 @@
+The,W,C,Task,Scheduler,API,document,specifies,an,API,that,allows,developers,to,schedule,tasks,to,trigger,at,specific,times,It,can,schedule,multiple,tasks,and,get,a,unique,ID,for,each,one,The,API,can,wake,the,system,from,a,sleep,state,and,scheduled,tasks,are,not,lost,when,the,application,is,closed,or,the,system,restarts

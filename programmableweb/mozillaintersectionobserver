@@ -1,0 +1,1 @@
+The,Mozilla,Intersection,Observer,API,allows,developers,to,observe,changes,in,how,a,target,element,intersects,with,an,ancestor,element,or,viewport,Developers,can,configure,a,callback,that,will,be,called,whenever,a,target,intersects,with,either,the,device,viewport,or,another,specified,element,This,specification,is,still,being,worked,on,and,is,therefore,subject,to,change

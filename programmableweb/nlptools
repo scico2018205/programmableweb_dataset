@@ -1,0 +1,1 @@
+The,NLPTools,is,a,simple,web,service,designed,as,a,JSON,over,HTTP,RESTful,API,It,decodes,online,news,sources,for,sentiment,analysis,and,textual,classification,In,order,to,analyze,the,sentiment,or,classify,of,a,line,of,text,developers,may,use,this,API,to,receive,a,return,of,a,category,label,and,a,conditionality,on,the,piece,ranging,from,positive,neutral,to,negative,sentiment

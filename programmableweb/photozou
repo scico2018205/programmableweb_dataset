@@ -1,0 +1,1 @@
+The,Photo,Collection,API,is,an,interface,for,external,programs,that,provide,access,to,Photozou,functionality,The,API,exposes,functionality,such,as,adding,tags,to,photos,adding,and,deleting,photos,to,albums,retrieving,user,information,and,more,The,API,uses,RESTful,protocol,and,responses,are,formatted,in,XML,The,site,and,documentation,is,in,Japanese

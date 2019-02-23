@@ -1,0 +1,1 @@
+skyParse,provides,a,cloud,based,resume,parsing,service,primarily,for,Human,Resources,departments,and,recruiters,Users,input,resume,files,usually,Microsoft,Word,RTF,or,PDF,and,the,parser,returns,the,resume,data,in,an,XML,document,based,on,the,industry,standard,HR,XML,schema,The,Resume,Parsing,API,is,available,in,either,REST,or,SOAP,protocol

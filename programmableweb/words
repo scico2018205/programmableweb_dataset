@@ -1,0 +1,1 @@
+WordsAPI,is,a,RESTful,API,that,allows,a,user,to,query,a,database,of,definitions,for,over,words,in,the,English,language,The,API,can,also,respond,with,specific,details,for,a,word,including,part,of,speech,derivative,form,antonyms,synonyms,and,other,morphological,word,specific,information,JSON,is,returned,in,all,responses,by,the,API,and,communication,with,the,API,requires,a,token

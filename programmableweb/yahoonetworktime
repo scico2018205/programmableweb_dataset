@@ -1,0 +1,1 @@
+Network,Time,is,a,simple,utility,service,that,provides,the,current,time,on,Yahoo,servers,The,API,provides,configuration,parameters,for,users,to,customize,the,format,as,desired,Users,can,request,the,timestamp,format,in,either,unix,timestamp,or,milliseconds,The,API,uses,RESTful,calls,and,responses,are,formatted,in,XML,JSON,and,PHP

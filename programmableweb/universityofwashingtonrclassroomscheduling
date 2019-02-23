@@ -1,0 +1,1 @@
+The,University,of,Washington,R,Classroom,Scheduling,API,provides,programmatic,access,to,schedule,information,for,UW,classrooms,Users,may,search,for,this,information,by,event,location,or,reservation,For,example,an,application,could,query,the,API,for,details,on,room,availability,for,KANE,This,API,can,be,accessed,via,REST,calls,using,the,XML,data,format

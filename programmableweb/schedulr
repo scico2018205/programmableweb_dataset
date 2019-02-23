@@ -1,0 +1,1 @@
+Schedulr,is,a,JSON,web,service,which,can,invoke,a,URL,at,a,scheduled,time,In,that,callback,implementation,users,can,either,put,the,logic,to,complete,the,task,online,or,if,it,s,a,time,consuming,one,users,can,queue,it,up,so,that,background,consumers,can,finish,it

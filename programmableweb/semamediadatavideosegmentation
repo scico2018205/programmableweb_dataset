@@ -1,0 +1,1 @@
+The,SemaMediaData,Video,Segmentation,API,allows,users,to,implement,visual,detection,features,into,applications,It,works,by,separating,a,video,stream,into,scenes,recognizing,camera,transitions,Requests,and,responses,are,available,in,JSON,format,Developers,can,make,calls,after,authenticating,with,API,Key

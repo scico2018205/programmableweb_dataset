@@ -1,0 +1,1 @@
+Written,in,Ruby,and,backed,by,PostgreSQL,Toshi,is,a,free,API,for,Bitcoin,app,developers,The,Bitcoin,node,which,is,fully,compatible,with,Bitcoin,Core,provides,a,JSON,API,to,query,raw,blockchain,data,This,enables,developers,to,read,information,about,blocks,or,transactions,broadcast,new,transactions,or,get,blockchain,stats,like,height,and,confirmation,times

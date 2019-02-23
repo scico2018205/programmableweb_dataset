@@ -1,0 +1,1 @@
+Spree,StoreFront,Stock,Items,API,allows,developers,to,make,RESTful,request,to,retrieve,a,paginated,list,of,all,stock,items,for,a,stock,location,This,API,is,only,accessible,to,admin,users,Developers,communicate,with,the,API,using,the,JSON,data,format,Requests,for,data,use,the,standard,HTTP,protocol,Spree,Commerce,is,an,automated,enterprise,solution,focused,on,ecommerce

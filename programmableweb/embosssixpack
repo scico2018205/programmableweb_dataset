@@ -1,0 +1,1 @@
+The,EMBOSS,Sixpack,API,reads,a,DNA,sequence,that,s,been,input,by,the,user,and,then,outputs,the,three,forward,and,optionally,three,reverse,frame,translations,in,a,visual,manner,The,API,is,available,in,both,RESTful,and,SOAP,forms,and,responses,are,formatted,in,XML

@@ -1,0 +1,1 @@
+Email,Pie,is,a,free,and,simple,JSON,API,for,validating,email,addresses,First,it,checks,to,make,sure,the,address,is,formatted,correctly,catching,things,like,invalid,characters,or,missing,signs,Then,it,makes,sure,that,the,domain,is,configured,to,collect,email,Finally,it,checks,for,common,misspellings,Sample,code,for,API,integration,is,provided,in,Python,Ruby,and,PHP

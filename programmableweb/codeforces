@@ -1,0 +1,1 @@
+The,Codeforces,API,is,a,platform,as,a,service,that,integrates,rankings,of,programming,contests,around,the,world,It,is,available,in,JSON,architecture,with,HTTP,requests,and,API,Key,which,can,be,generated,at,http,codeforces,com,settings,api,If,developers,prefer,to,work,via,JSONP,they,will,receive,JavaScript,as,a,data,return

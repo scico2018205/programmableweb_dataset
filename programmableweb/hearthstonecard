@@ -1,0 +1,1 @@
+The,Hearthstone,Card,API,supports,the,querying,of,the,Hearthstone,Cards,using,specified,parameters,Its,integration,makes,it,easier,for,users,to,apply,specific,parameters,such,as,minimum,and,maximum,range,when,querying,specific,cards,The,API,sends,requests,and,responses,in,JSON,format

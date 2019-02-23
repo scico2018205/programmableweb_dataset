@@ -1,0 +1,1 @@
+The,API,provides,methods,for,managing,domains,programmatically,The,API,allows,users,to,programmatically,Create,Primary,Zones,Create,Secondary,Zones,Delete,Zones,and,more,Users,can,also,update,the,IP,address,of,their,host,It,uses,both,REST,and,SOAP,protocol,and,responses,are,formatted,in,XML

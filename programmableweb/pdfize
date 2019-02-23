@@ -1,0 +1,1 @@
+PDFize,is,a,simple,API,that,allows,a,user,to,get,a,PDF,file,from,an,HTML,file,The,API,is,a,hosted,version,implemented,using,the,TCPDF,library,The,API,uses,HTTP,calls,and,responses,are,formatted,in,JSON,For,details,on,parameter,values,or,features,see,the,TCPDF,documentation,on,http,www,tcpdf,org

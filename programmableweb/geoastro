@@ -1,0 +1,1 @@
+GeoAstroApi,is,an,API,for,retrieving,geographical,and,astronomical,info,With,the,API,users,can,get,info,such,as,the,sunrise,and,sunset,for,a,location,moonrise,and,moonset,for,a,location,moon,phases,for,a,date,the,fraction,of,the,moon,that,is,illuminated,and,also,convert,Julian,Gregorian,dates,The,API,uses,HTTP,calls,and,responses,are,formatted,in,JSON

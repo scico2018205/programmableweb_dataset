@@ -1,0 +1,1 @@
+Language,Detection,currently,detects,languages,It,works,by,accepting,text,and,displaying,results,with,code,and,score,Available,in,JSON,protocol,the,API,provides,basic,detection,batch,requests,and,secure,mode,SSL,It,requires,an,Api,Key,that,can,be,accessed,through,Ruby,Java,Python,NET,and,PHP

@@ -1,0 +1,1 @@
+The,OremGeocoder,API,allows,GIS,applications,to,plot,Orem,UT,addresses,even,when,street,names,are,placed,before,house,numbers,streets,have,more,than,one,name,or,address,coordinates,don,t,match,any,streets,at,all,A,closely,related,API,that,consumes,this,one,informs,the,user,which,polygon,on,the,map,contains,a,given,address

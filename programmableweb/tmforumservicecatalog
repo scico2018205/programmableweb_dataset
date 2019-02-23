@@ -1,0 +1,1 @@
+The,TM,Forum,Service,Catalog,API,allows,users,to,manage,the,whole,lifecycle,of,the,different,elements,associated,with,a,service,catalog,It,supports,the,consultation,of,catalog,elements,during,ordering,sales,and,campaign,management,processes,The,RESTful,API,sends,requests,in,URI,Query,String,CRUD,format,and,returns,responses,in,JSON,format,It,is,currently,a,beta,release

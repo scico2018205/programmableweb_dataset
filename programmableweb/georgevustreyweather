@@ -1,0 +1,1 @@
+This,API,provides,users,with,the,forecast,for,next,five,days,It,has,only,one,method,where,users,can,get,a,forecast,given,their,location,The,API,uses,HTTP,calls,and,responses,are,formatted,in,JSON

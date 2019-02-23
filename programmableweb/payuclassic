@@ -1,0 +1,1 @@
+This,API,creates,a,PayU,new,payment,after,placing,an,appropriate,form,on,your,website,which,will,redirect,the,customer,to,the,PayU,NewPayment,procedure,It,is,advised,to,use,the,POST,method,if,possible,however,the,GET,method,is,also,available,PayU,is,a,Naspers,owned,online,and,mobile,payments,company
